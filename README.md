@@ -1,9 +1,9 @@
 # SnippetAI
 
-![Image](https://github.com/user-attachments/assets/61fe8831-e49e-4ec7-8fe1-c5cecd91bcfb)
-![Image](https://github.com/user-attachments/assets/dddf1750-db9b-46c5-87e9-44bfb0fb2ff4)
-![Image](https://github.com/user-attachments/assets/e94f0a97-871d-4430-aa48-4b128dd6a433)
-![Image](https://github.com/user-attachments/assets/6ba8064a-5bfc-4511-bca2-b26e2cca8dda)
+![Image](https://github.com/user-attachments/assets/d415e6ce-c0ee-45bd-a24b-7ff0242a4a6e)
+![Image](https://github.com/user-attachments/assets/f32b2fa0-d8b3-409e-aba0-0a5d9893f775)
+![Image](https://github.com/user-attachments/assets/2bb16051-e151-43af-9758-a7f297c18df2)
+![Image](https://github.com/user-attachments/assets/3cb6b8ed-788d-4a2e-957c-ecf4f9771e90)
 > [!WARNING]
 > Currently only tested to work on Google Chrome
 

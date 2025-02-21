@@ -1,5 +1,6 @@
 
 // TO DO: Set up external proxy server
+// TO DO: Plugin almost works on Firefox, but need to fix cross-cors error
 
 require("dotenv").config();
 const express = require("express");

@@ -1,0 +1,38 @@
+/* TO DO: Change styling */
+button {
+    border-radius: 0px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100%;
+    color: #FFFFFF;
+    background-color: #FE7102;
+}
+
+.highlight-bubble {
+    position: absolute;
+    background-color: #FFFFFF;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border-color: #1B4137;
+    border: 2.5px;
+    border-style: solid;
+    display: none;
+    width: auto;
+    max-width: 500px;
+    color: #232E3F;
+}
+
+.textArea {
+    border: none;
+    border-width: auto;
+    background: none;
+    outline: none;
+    font: inherit;
+    height: auto;
+    padding: 0;
+    max-width: 500px;
+    width: 100%;
+    box-sizing: border-box;
+    resize: both;
+    color: #232E3F;
+}

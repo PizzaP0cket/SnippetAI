@@ -1,0 +1,27 @@
+{
+    "manifest_version": 3,
+    "name": "SnippetAI",
+    "description": "Highlight text, edit or leave query as-is before generating response from Google Gemini.",
+    "version": "1.0.0",
+    "host_permissions": [
+        "http://*/*",
+        "https://*/*"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "./Scripts/contentScript.js"
+            ],
+            "css": [
+                "./CSS/style.css"
+            ]
+        }
+    ],
+    "action": {
+        "default_title": "SnippetAI",
+        "default_popup": "popup.html"
+    }
+}

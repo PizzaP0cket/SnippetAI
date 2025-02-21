@@ -1,6 +1,11 @@
 # SnippetAI
-![Image](https://github.com/user-attachments/assets/64bd2e76-fd82-44fd-a52e-e1094abbd823) 
-![Image](https://github.com/user-attachments/assets/20662e1b-75fd-42aa-9bc1-04fddc291cb9)
+
+![Image](https://github.com/user-attachments/assets/61fe8831-e49e-4ec7-8fe1-c5cecd91bcfb)
+![Image](https://github.com/user-attachments/assets/dddf1750-db9b-46c5-87e9-44bfb0fb2ff4)
+![Image](https://github.com/user-attachments/assets/e94f0a97-871d-4430-aa48-4b128dd6a433)
+![Image](https://github.com/user-attachments/assets/6ba8064a-5bfc-4511-bca2-b26e2cca8dda)
+> ![WARNING]
+> Currently only tested to work on Google Chrome
 
 This plugin enables users to easily select text from websites and submit it directly to Google Gemini. Once the text is highlighted, users have the option to edit or leave the query as-is before sending it off. After submitting the query, the selection disappears automatically when users click away, ensuring a smooth, seamless browsing experience.
 

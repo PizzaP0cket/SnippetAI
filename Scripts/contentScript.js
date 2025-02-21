@@ -13,12 +13,13 @@ function showBubble(selectedText) {
 
     let textArea = document.createElement('textarea');
     textArea.value = selectedText;
-    textArea.className = 'textArea';
+    textArea.className = 'highlighted-text';
     textArea.id = `selectedText-${counter}`;
     container.appendChild(textArea);
 
     let genButton = document.createElement('button');
     genButton.innerText = 'Generate Response';
+    genButton.className = 'gen-button';
     genButton.addEventListener('click', generateResponse);
     container.appendChild(genButton);
 

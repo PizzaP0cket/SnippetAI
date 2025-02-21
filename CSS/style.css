@@ -1,11 +1,14 @@
 /* TO DO: Change styling */
-button {
+.gen-button {
     border-radius: 0px;
     margin-top: 5px;
     margin-bottom: 5px;
     width: 100%;
     color: #FFFFFF;
     background-color: #FE7102;
+    border: 1.5px;
+    border-style: solid;
+    border-color: #1B4137;
 }
 
 .highlight-bubble {
@@ -22,7 +25,7 @@ button {
     color: #232E3F;
 }
 
-.textArea {
+.highlighted-text {
     border: none;
     border-width: auto;
     background: none;
